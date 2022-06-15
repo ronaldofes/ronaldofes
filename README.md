@@ -1,9 +1,10 @@
 ## Hello! I'm Ronaldo Ferreira, a Java Developer who works with opensource projects!
-<div style="display: inline_block>
-<a href="https://www.hackerrank.com/ronaldofes">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ronaldofes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&count_private=true"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldofes&layout=compact&langs_count=7&theme=onedark"/>
+<div align="center">
+  <a href="https://www.hackerrank.com/ronaldofes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldofes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldofes&layout=compact&langs_count=7&theme=onedark"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Ronaldo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ronaldo-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
