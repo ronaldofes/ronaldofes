@@ -25,6 +25,6 @@
  <a href="https://www.tiktok.com/@ronaldofes" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCjyIidqjjagzvVDnyHdTjdw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ronaldofes/ronaldofes/blob/master/.github/workflows/main.yml)
  
 </div>
